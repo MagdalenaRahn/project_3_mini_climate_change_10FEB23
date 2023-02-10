@@ -12,5 +12,6 @@ Data Dictionary, from Kaggle :
 1/ date: starts in 1743 for average temperature, going through 01 Sept 2013  
 2/ avg_temp : average land temperature in celsius    
 3/ avg_temp_q : average temperature uncertainty, the 95% confidence interval around the land temperature  
-4/ country : the country examined
-5/ city : the city examined
+4/ country : the country examined  
+5/ city : the city examined  
+ 
