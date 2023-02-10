@@ -5,3 +5,10 @@ The aim of the project is to use time series analysis to predict future temperat
 Project title : _______
 
 Project author : Magdalena Rahn, Codeup Data Science programme, Noether cohort, 10 February 2023.
+
+
+Data Dictionary, from Kaggle : 
+
+1/ date: starts in 1743 for average temperature, going through 01 Sept 2013
+2/ avg_temp : average land temperature in celsius  
+7/ avg_temp_q : average temperature uncertainty, the 95% confidence interval around the land temperature  
